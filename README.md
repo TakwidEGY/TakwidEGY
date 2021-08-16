@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TakwidEGY
+- 👋 Hi, I’m @TakwidMasr
 - 👀 I’m interested in Front-End Development and Web Development
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on Projects that benefit humanity
-- 📫 How to reach me @TakwidEGY on Facebook & Twitter
+- 📫 How to reach me @TakwidMasr on Twitter
 
 
 <!---
